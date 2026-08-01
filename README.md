@@ -42,21 +42,21 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 
 | Project | Description |Project Link |
 |---------|-------------|-----------|
-| 🏠 Home Lab | Multi-VM Cybersecurity Lab | [View Project]() |
-| 🔐 AD CS | Enterprise Certificate Services |[View Project]() |
-| 👥 Active Directory GPO | Secure Group Policy Configuration | [View Project]() |
-| ☁ AWS IAM | Identity & Access Management |[View Project]() |
-| ☁ Azure IAM | Microsoft Entra Identity |[View Project]() |
-| 🐧 Linux IAM | User & Permission Management |[View Project]() |
-| 🛡 Nessus | Network Vulnerability Management |[View Project]() |
-| 📊 Qualys | Enterprise Vulnerability Management |[View Project]() |
-| ☁ Prowler | AWS Cloud Security Assessment |[View Project]() |
-| 🎯 Penetration Testing | Network & Web Security Testing |[View Project]() |
-| 📈 Splunk SIEM | Detection & Monitoring |[View Project]() |
-| 🔎 MITRE ATT&CK | Threat Hunting & Detection |[View Project]() |
-| 📑 Framework Mapping | NIST CSF • ISO 27001 • CIS Controls |[View Project]() |
-| 📧 Zphisher | Security Awareness Simulation |[View Project]() |
-| 🦠 Malware Analysis | Static & Dynamic Analysis |[View Project]() |
+| 🏠 Home Lab | Multi-VM Cybersecurity Lab | [View Project](https://github.com/folaolufunmi/Multi-VM-Cybersecurity-Lab) |
+| 🔐 AD CS | Enterprise Certificate Services |[View Project](https://github.com/folaolufunmi/Enterprise-Certificate-Services) |
+| 👥 Active Directory GPO | Secure Group Policy Configuration | [View Project](https://github.com/folaolufunmi/Secure-Group-Policy-Configuration) |
+| ☁ AWS IAM | Identity & Access Management |[View Project](https://github.com/folaolufunmi/Identity-Access-Management) |
+| ☁ Azure IAM | Microsoft Entra Identity |[View Project](https://github.com/folaolufunmi/Microsoft-Entra-Identity) |
+| 🐧 Linux IAM | User & Permission Management |[View Project](https://github.com/folaolufunmi/User-Permission-Management) |
+| 🛡 Nessus | Network Vulnerability Management |[View Project](https://github.com/folaolufunmi/Network-Vulnerability-Management) |
+| 📊 Qualys | Enterprise Vulnerability Management |[View Project](https://github.com/folaolufunmi/Enterprise-Vulnerability-Management) |
+| ☁ Prowler | AWS Cloud Security Assessment |[View Project](https://github.com/folaolufunmi/AWS-Cloud-Security-Assessment) |
+| 🎯 Penetration Testing | Network & Web Security Testing |[View Project](https://github.com/folaolufunmi/Network-Web-Security-Testing) |
+| 📈 Splunk SIEM | Detection & Monitoring |[View Project](https://github.com/folaolufunmi/Detection-Monitoring) |
+| 🔎 MITRE ATT&CK | Threat Hunting & Detection |[View Project](https://github.com/folaolufunmi/Threat-Hunting-Detection) |
+| 📑 Framework Mapping | NIST CSF • ISO 27001 • CIS Controls |[View Project](https://github.com/folaolufunmi/NIST-CSF-ISO-27001-CIS-Controls) |
+| 📧 Zphisher | Security Awareness Simulation |[View Project](https://github.com/folaolufunmi/Security-Awareness-Simulation) |
+| 🦠 Malware Analysis | Static & Dynamic Analysis |[View Project](https://github.com/folaolufunmi/Static-Dynamic-Analysis) |
 
 ---
 
