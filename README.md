@@ -44,7 +44,7 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 |---------|-------------|-----------|
 | 🏠 Home Lab | Multi-VM Cybersecurity Lab | [View Project](https://github.com/folaolufunmi/Multi-VM-Cybersecurity-Lab) |
 |Network Segmentation | Segregation Of Networks | [View Project](https://github.com/folaolufunmi/Network-Segmentation) |
-|IAM on-prem | Identity $ Access Management Using Active Directory| [View Project](https://github.com/folaolufunmi/Network-Segmentation) |
+|IAM on-prem | Identity $ Access Management Using Active Directory| [View Project](https://github.com/folaolufunmi/IAM-on-prem-Identity-Access-Management-Using-Active-Directory)|
 | 🔐 AD CS | Enterprise Certificate Services |[View Project](https://github.com/folaolufunmi/Enterprise-Certificate-Services) |
 | 👥 Active Directory GPO | Secure Group Policy Configuration | [View Project](https://github.com/folaolufunmi/Secure-Group-Policy-Configuration) |
 | ☁ AWS IAM | Identity & Access Management |[View Project](https://github.com/folaolufunmi/Identity-Access-Management) |
