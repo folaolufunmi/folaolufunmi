@@ -46,6 +46,7 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 |Network Segmentation | Segregation Of Networks | [View Project](https://github.com/folaolufunmi/Network-Segmentation) |
 |IAM on-prem | Identity $ Access Management Using Active Directory| [View Project](https://github.com/folaolufunmi/IAM-on-prem-Identity-Access-Management-Using-Active-Directory)|
 | 🔐 AD CS | Enterprise Certificate Services |[View Project](https://github.com/folaolufunmi/Enterprise-Certificate-Services) |
+| SECURITY POLICY | Security Policy Development |[View Project](https://github.com/folaolufunmi/Enterprise-Certificate-Services) |
 | 👥 Active Directory GPO | Secure Group Policy Configuration | [View Project](https://github.com/folaolufunmi/Secure-Group-Policy-Configuration) |
 | ☁ AWS IAM | Identity & Access Management |[View Project](https://github.com/folaolufunmi/Identity-Access-Management) |
 | ☁ Azure IAM | Microsoft Entra Identity |[View Project](https://github.com/folaolufunmi/Microsoft-Entra-Identity) |
