@@ -32,6 +32,13 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 - ISO 27001 Control Assessment: Map control requirements to evidence, identify gaps and document remediation. 
 - Policy & Procedure Development: Develop and review access control, acceptable use and incident response procedures.
 - Audit Evidence & Exception Tracking: Build an evidence index, test control operation and track exceptions to closure.
+- Planned and executed an employee phishing simulation to assess organizational susceptibility to social engineering attacks and evaluate employee security awareness.
+- Assessed human-related security risks by monitoring employee interactions with simulated phishing links, identifying credential submission behaviour and evaluating adherence to security awareness expectations.
+- Evaluated the effectiveness of existing security awareness and incident-reporting practices against ISO/IEC 27001:2022 Annex A 6.3 (Information Security Awareness, Education and Training) and Annex A 6.8 (Information Security Event Reporting).
+- Documented control weaknesses and security awareness gaps, highlighting deficiencies in phishing detection, credential protection and suspicious email reporting.
+- Developed recommendations for targeted employee awareness training, improved phishing reporting procedures and periodic simulation exercises to strengthen the organization's human security controls.
+- Prepared project findings, supporting evidence, KPI measurements and corrective action recommendations to support GRC reporting and continual improvement.
+
 ---
 
 # ⭐ Featured Projects
