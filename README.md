@@ -69,7 +69,8 @@ This GitHub portfolio showcases my practical cybersecurity projects, technical i
 - Conducted a controlled phishing simulation that identified credential submission and employee phishing-reporting weaknesses, translating the results into a security control effectiveness assessment.
 - Developed a structured User Access Review process covering Microsoft 365/Entra ID and Zoho Mail, supported by an evidence index, entitlement documentation, and remediation tracker.
 - Evaluated Active Directory security group permissions and Group Policy configurations to assess access restrictions and least-privilege enforcement.
-- Produced information security governance documentation, including security policies, ITGC assessment materials, and an incident response plan addressing PHI/ePHI security requirements.
+- Developed information security governance documentation, including security policies, IT General Controls (ITGC) assessment materials, and an incident response plan addressing the protection of customer financial information, payment card data (PCI DSS), data privacy, and financial-sector cybersecurity requirements.
+- Produced information security governance documentation, including security policies, ITGC assessment materials, and an incident response plan addressing security requirements.
 - Developed third-party security assessment documentation and vendor questionnaire review processes to support security due diligence and risk management.
 
 # ⭐ Featured Projects
