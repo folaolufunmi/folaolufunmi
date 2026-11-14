@@ -4,7 +4,7 @@
 <h1 align="center">Hi, I'm Funmilola Folarin</h1>
 
 <h3 align="center">
-Cybersecurity Analyst | IAM | Cloud Security | Vulnerability Management | Detection Engineering
+Cybersecurity GRC Analyst | Cloud Security | Vulnerability Management 
 </h3>
 
 <p align="center">
@@ -39,7 +39,7 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 - Developed recommendations for targeted employee awareness training, improved phishing reporting procedures and periodic simulation exercises to strengthen the organization's human security controls.
 - Prepared project findings, supporting evidence, KPI measurements and corrective action recommendations to support GRC reporting and continual improvement.
 
----
+**Impact highlights:** 
 
 # ⭐ Featured Projects
 
