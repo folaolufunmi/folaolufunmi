@@ -4,7 +4,7 @@
 <h1 align="center">Hi, I'm Funmilola Folarin</h1>
 
 <h3 align="center">
-Cybersecurity GRC Analyst | Cloud Security | Vulnerability Management 
+Cybersecurity GRC Analyst | Legal & Regulatory Compliance | Financial Services Risk | ISO 27001 LI | NIST CSF | Cloud Security | Vulnerability Management 
 </h3>
 
 <p align="center">
@@ -14,7 +14,30 @@ Risk Assessment | ISO 27001 | Control Testing | Audit Readiness.
 ---
 
 ## 👨‍💻 Professional profile 
-I am a Governance, Risk & Compliance (GRC) Analyst developing practical expertise through authorized security operations, supervised assignments, and independent technical projects. My portfolio documents what I did, how I did it, the evidence I produced, and the Impact. I distinguish simulated exercises from live operational work and identify my individual contribution to team activities.
+I am a Cybersecurity Governance, Risk and Compliance (GRC) Analyst and Legal Professional with over 15 years of legal experience, 7+ years of experience in fraud risk and financial services, and practical experience in cybersecurity governance, risk management, and information security control assessments, with a background spanning financial services, fraud investigation, risk management, regulatory compliance, and information security.
+
+My professional background is built on three complementary disciplines: law, financial crime risk management, and cybersecurity.
+
+With over 15 years of legal experience, I have developed a strong foundation in regulatory interpretation, legal research, compliance advisory, corporate and commercial law, litigation, and risk assessment. This experience has equipped me with the ability to interpret complex regulatory requirements, evaluate legal and operational obligations, assess compliance exposure, and translate regulatory expectations into actionable governance requirements.
+
+My subsequent 7+ years in the Canadian financial services sector, working across fraud detection, investigation, and risk analysis, further strengthened my experience in financial crime prevention, transaction monitoring, AML/KYC processes, investigative analysis, regulatory compliance, and operational risk management.
+
+Building on this foundation, I have developed practical cybersecurity GRC capabilities through technical implementations, security assessments, and independent projects involving:
+
+- Information Security Governance: ISO/IEC 27001:2022, NIST CSF 2.0, security policies, and control frameworks.
+- Risk Management: Information security risk assessments, risk registers, risk scoring, risk treatment, and remediation monitoring.
+- Security Controls & Assurance: Control design, implementation assessment, effectiveness testing, evidence collection, and audit readiness.
+- Identity & Access Management: Active Directory, Microsoft Entra ID, RBAC, Joiner-Mover-Leaver processes, and User Access Reviews.
+- Vulnerability Management: Nessus vulnerability scanning, CVSS assessment, risk prioritization, and remediation tracking.
+- Security Operations: Microsoft Defender alert analysis, threat identification, indicators of compromise, and incident documentation.
+- Third-Party Risk Management: Vendor security questionnaires, security due diligence, and third-party risk assessments.
+- Privacy & Regulatory Compliance: PIPEDA, PCI DSS, HIPAA security requirements, and privacy governance principles.
+
+I bring a multidisciplinary perspective to cybersecurity GRC, combining legal and regulatory interpretation, financial services risk experience, investigative capabilities, and practical information security knowledge.
+
+I am particularly interested in the intersection of cybersecurity governance, regulatory compliance, privacy, financial services security, and enterprise risk management.
+
+This GitHub portfolio showcases my practical cybersecurity projects, technical implementations, risk assessments, security control evaluations, and governance documentation. It reflects my commitment to translating regulatory and security requirements into effective controls, measurable risk reduction, and sustainable security practices.
 
 
 | 👨‍💻 About Me | 🛠 Skills & Technologies |
