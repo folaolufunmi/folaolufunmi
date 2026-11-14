@@ -8,7 +8,7 @@ Cybersecurity GRC Analyst | Cloud Security | Vulnerability Management
 </h3>
 
 <p align="center">
-Building secure enterprise environments through hands-on cybersecurity projects.
+Risk Assessment | ISO 27001 | Control Testing | Audit Readiness.
 </p>
 
 ---
