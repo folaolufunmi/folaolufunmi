@@ -21,21 +21,17 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 
 ---
 
-# 🛡 Cybersecurity Portfolio
+## Work Experience | Halisans Technologies
 
-| Domain | Projects |
-|---------|----------|
-| 🏠 Lab Infrastructure | Virtual Home Lab |
-| 🔐 Identity & Access Management | Active Directory GPO • AD CS • AWS IAM • Azure IAM • Linux IAM |
-| ☁ Cloud Security | AWS Secure Deployment • Azure Secure Deployment • Prowler |
-| 🛡 Vulnerability Management | Nessus • Qualys VMDR • Patch Management |
-| 🚨 Detection & Monitoring | Splunk SIEM • Log Analysis |
-| 🎯 Penetration Testing | Network Pentesting • Web Application Pentesting |
-| 🔎 Threat Hunting | MITRE ATT&CK • IOC Hunting • Detection Engineering |
-| 📊 Governance, Risk & Compliance | Security Policies • Risk Assessment • NIST CSF • ISO 27001 |
-| 📧 Security Awareness | Zphisher Simulation • Phishing Email Forensics |
-| 🦠 Malware Analysis | Static • Dynamic • Malicious PDF |
+**Role:** Cybersecurity GRC Analyst **Period:** June 2026- Till present
 
+**Environment:** Cybersecurity Operations 
+
+**Responsibilities:** 
+- Enterprise Risk Assessment: Maintain a risk register with likelihood, impact, owner, treatment and residual risk.
+- ISO 27001 Control Assessment: Map control requirements to evidence, identify gaps and document remediation. 
+- Policy & Procedure Development: Develop and review access control, acceptable use and incident response procedures.
+- Audit Evidence & Exception Tracking: Build an evidence index, test control operation and track exceptions to closure.
 ---
 
 # ⭐ Featured Projects
