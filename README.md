@@ -65,6 +65,12 @@ This GitHub portfolio showcases my practical cybersecurity projects, technical i
 - Prepared project findings, supporting evidence, KPI measurements and corrective action recommendations to support GRC reporting and continual improvement.
 
 **Impact highlights:** 
+- Developed an ISO 27001:2022-aligned vulnerability management lifecycle incorporating Nessus scan findings, CVSS assessment, risk prioritization, and treatment recommendations.
+- Conducted a controlled phishing simulation that identified credential submission and employee phishing-reporting weaknesses, translating the results into a security control effectiveness assessment.
+- Developed a structured User Access Review process covering Microsoft 365/Entra ID and Zoho Mail, supported by an evidence index, entitlement documentation, and remediation tracker.
+- Evaluated Active Directory security group permissions and Group Policy configurations to assess access restrictions and least-privilege enforcement.
+- Produced information security governance documentation, including security policies, ITGC assessment materials, and an incident response plan addressing PHI/ePHI security requirements.
+- Developed third-party security assessment documentation and vendor questionnaire review processes to support security due diligence and risk management.
 
 # ⭐ Featured Projects
 
