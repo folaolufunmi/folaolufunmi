@@ -13,7 +13,9 @@ Risk Assessment | ISO 27001 | Control Testing | Audit Readiness.
 
 ---
 
-## 👨‍💻 About Me | 🛠 Skills & Certifications
+## 👨‍💻 Professional profile 
+I am a Governance, Risk & Compliance (GRC) Analyst developing practical expertise through authorized security operations, supervised assignments, and independent technical projects. My portfolio documents what I did, how I did it, the evidence I produced, and the Impact. I distinguish simulated exercises from live operational work and identify my individual contribution to team activities.
+
 
 | 👨‍💻 About Me | 🛠 Skills & Technologies |
 |---------------|--------------------------|
